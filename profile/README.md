@@ -1,3 +1,4 @@
-Welcome to Cobrowse.io. 
+Welcome!
 
-More info at [https://cobrowse.io]
+Marketing website - https://cobrowse.io
+Technical docs - https://docs.cobrowse.io

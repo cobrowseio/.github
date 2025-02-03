@@ -1,4 +1,6 @@
-## Welcome!
+
+![GitHub_Readme_Cover](https://github.com/user-attachments/assets/d2656e03-5ddd-450c-942a-d4049e7b1a2a)
+## Welcome
 
 ### Quick links
 - Marketing website - https://cobrowse.io
